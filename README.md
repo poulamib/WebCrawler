@@ -1,2 +1,0 @@
-# WebCrawler
-Web Crawler
